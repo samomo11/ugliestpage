@@ -1,0 +1,22 @@
+body {
+  background-color: orange;
+  border: 30px dotted purple;
+  padding: 20px;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  font-size: 100pt;
+  text-align: right;
+  color: aqua;
+  border-style: dotted;
+}
+
+img {
+  width: 10cm;
+}
